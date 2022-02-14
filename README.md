@@ -1,4 +1,8 @@
-# Introduction to Each File
+# Introduction to Files
+All the files in this repository can be used to practise indexing in Python.
+
+## CPS_March_2016.csv
+The data is from the [Current Population Survey](https://www.census.gov/programs-surveys/cps.html), which surveys about 60,000 households each month.
 
 ## two_digit_by_port.csv
 The file 'two_digit_by_port.csv' contains U.S. the dollar value of imports by two-digit commodity code and port of entry for December 2013. The data were retrieved from the [Census trade API](https://www.census.gov/data/developers/data-sets/international-trade.html).
